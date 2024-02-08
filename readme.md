@@ -7,5 +7,5 @@ Yes i know about spartie but that package docs is confusing, not facade friendly
 
 No code changes yet just a change from v6 to v7 and Class name change from Collective to GP
 
-Oh and PHP min is 8.1
+Oh and PHP min is 8.1 and Laravel min version is 9.0
 
