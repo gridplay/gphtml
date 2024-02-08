@@ -43,9 +43,6 @@
         ]
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "7.x-dev"
-        },
         "laravel": {
             "providers": [
                 "GP\\Html\\HtmlServiceProvider"
