@@ -1,6 +1,10 @@
 # GPHtml
 ## Fork of LaravelCollective's HTML package for Laravel
 
+```
+composer require gridplay/gphtml
+```
+
 Did this mostly to keep the project alive and to get rid of those composer warnings.
 
 Yes i know about spartie but that package docs is confusing, not facade friendly and seem to not have the Form::open i want
@@ -16,4 +20,3 @@ Oh and PHP min is 8.2 and Laravel min version is 10.0
 - Composer's minimum-stability is set to stable
 - Took out "test" stuff because well, the code works, no need to run tests on it
 
-Can catch me on Bluesky at https://bsky.app/profile/ven.gridplay.net
