@@ -14,7 +14,10 @@ No code changes yet just a change from v6 to v7 and Class name change from Colle
 Oh and PHP min is 8.2 and Laravel min version is 11.0
 
 Credits to LaravelCollective for making this package and allowing me to maintane it in a fork
-
+### 7.0.4 - Sept 13 2026
+- Added support for Laravel 14
+- Upped the min version for PHP to 8.4
+  
 ### 7.0.3 - Sept 22 2025
 - I see that Laravel 10 is end of life now so this package will NOT suppport EoL's
 - Removed Laravel 10 support
